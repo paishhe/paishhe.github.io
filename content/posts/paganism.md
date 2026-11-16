@@ -1,7 +1,7 @@
 +++
 date = '2026-11-17T00:36:25+05:30'
 draft = false
-title = 'pagn'
+title = 'paganism'
 +++
 
 
