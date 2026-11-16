@@ -2,3 +2,9 @@ baseURL = "https://paishhe.github.io/"
 languageCode = "en-uk"
 title = "paishhe"
 theme = "risotto"
+
+
+[[menu.main]]
+  name = "Posts"
+  pageRef = "/posts"
+  weight = 1
