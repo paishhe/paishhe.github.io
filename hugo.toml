@@ -1,0 +1,4 @@
+baseURL = "https://paishhe.github.io/"
+languageCode = "en-uk"
+title = "paishhe"
+theme = "risotto"
